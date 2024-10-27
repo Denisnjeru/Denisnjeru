@@ -26,8 +26,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ```txt
 Dynamics 365 Business Central       8 hrs 8 mins    ██████████████░░░░░░░░░░░   56.46 %
-JavaScript                          4 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.30 %
-Python                              44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Python                              4 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.30 %
+JavaScript                          44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 JSON                                44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 Other                               33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 Bash                                33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
